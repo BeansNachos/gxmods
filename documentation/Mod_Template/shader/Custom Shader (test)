@@ -1,0 +1,38 @@
+body {
+  background-color: #000;
+  color: #fff;
+  font-family: "Roboto", sans-serif;
+}
+
+h1, h2, h3 {
+  font-weight: 700;
+}
+
+a {
+  color: #00ff00;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #ff00ff;
+}
+
+/* Example futuristic styling */
+body {
+  background-image: linear-gradient(to bottom right, #000, #0f0f0f);
+  background-attachment: fixed;
+}
+
+h1 {
+  color: #00ff00;
+  text-shadow: 2px 2px 4px rgba(0, 255, 0, 0.8);
+}
+
+p {
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+/* Modify other CSS properties as desired */
+
+/* Add more rules to customize specific elements on web pages */
